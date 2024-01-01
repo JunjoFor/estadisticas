@@ -1,0 +1,30 @@
+resultados de : streamcluster-rodinia-2.0-ftGTO.txt
+0,61531727184
+59224847
+40529430
+120184587
+resultados de : bfs-rodinia-2.0-ftGTO.txt
+0,456431090207
+301580
+4639555
+9039458
+resultados de : nw-rodinia-2.0-ftGTO.txt
+0,8661
+2040
+6932764
+1805220
+resultados de : heartwall-rodinia-2.0-ftGTO.txt
+0,6901
+108682
+80680
+568769
+resultados de : pathfinder-rodinia-2.0-ftGTO.txt
+0,823423084482
+16199
+153432
+664475
+resultados de : backprop-rodinia-2.0-ftGTO.txt
+0,34998042251
+1113486
+131132
+695315

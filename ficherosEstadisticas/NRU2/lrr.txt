@@ -1,0 +1,60 @@
+resultados de : srad_v2-rodinia-2.0-ft.txt
+0,0
+0
+0
+0
+0
+resultados de : bfs-rodinia-2.0-ft.txt
+0,516738515778
+323717
+5892454
+9032418
+143240.0
+resultados de : hotspot-rodinia-2.0-ft.txt
+0,0
+0
+0
+0
+0
+resultados de : pathfinder-rodinia-2.0-ft.txt
+0,848848457231
+16073
+188463
+685902
+36428.0
+resultados de : heartwall-rodinia-2.0-ft.txt
+0,7638
+121808
+146846
+588537
+12872.0
+resultados de : backprop-rodinia-2.0-ft.txt
+0,3802783466
+1440426
+274357
+518350
+27386.0
+resultados de : lud-rodinia-2.0-ft.txt
+0,0
+0
+0
+0
+0
+resultados de : streamcluster-rodinia-2.0-ft.txt
+0,615323137801
+72289034
+47105536
+113037850
+1119778.0
+resultados de : nw-rodinia-2.0-ft.txt
+0,8661
+2048
+8261021
+1986911
+146680.0
+resultados de : nn-rodinia-2.0-ft.txt
+0,0
+0
+0
+0
+0
